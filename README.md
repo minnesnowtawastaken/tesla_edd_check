@@ -1,5 +1,5 @@
 # Tesla EDD Checker
-#Requirements:
+# Requirements:
 * Python 3.9
 * Chrome browser with the appropriate chromedriver for your OS and Chrome version
     * Add the chromedriver to your system's path 
